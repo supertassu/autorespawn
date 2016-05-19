@@ -1,0 +1,8 @@
+main: org.supertassu.autorespawn.AutoRespawn
+name: AutoRespawn
+version: 1.0
+author: supertassu
+permissions:
+   autorespawn.use:
+     description: Allows you to use AutoRespawn.
+     default: op
